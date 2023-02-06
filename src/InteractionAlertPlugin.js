@@ -1,7 +1,7 @@
 import React from 'react';
 import { FlexPlugin } from '@twilio/flex-plugin';
 
-import CustomInteractionAlert from './components/CustomTaskList/CustomInteractionAlert';
+import CustomInteractionAlert from './components/CustomTaskAlert/CustomInteractionAlert';
 
 const PLUGIN_NAME = 'InteractionAlertPlugin';
 
